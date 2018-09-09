@@ -3,7 +3,11 @@
 Screenshots of Screens:
 
 Start: <a href="https://imgur.com/VWxuIJL"><img src="https://i.imgur.com/VWxuIJL.png" title="source: imgur.com" /></a>
+
+
 Game: <a href="https://imgur.com/S2TggsS"><img src="https://i.imgur.com/S2TggsS.png" title="source: imgur.com" /></a>
+
+
 Stats: <a href="https://imgur.com/ekQzvsy"><img src="https://i.imgur.com/ekQzvsy.png" title="source: imgur.com" /></a>
 
 Welcome to my version of Match the Members! An app created for the purposes of reviewing and remembering the member names of people currently in MDB. These are the specifications of my application:
