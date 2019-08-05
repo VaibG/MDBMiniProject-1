@@ -10,7 +10,7 @@ These are the features of my application:
 * The ability to Stop the timer on the Game page, go to the Stats page, and have the Timer still be paused
 * A Stats Screen that displays:
   * Your longest streak of correct questions
-  * Your result
+  * Your last three results
 
 ## Screenshots
 | <img src="https://i.imgur.com/VWxuIJL.png" width="200">        | <img src="https://i.imgur.com/S2TggsS.png" width="200">           | <img src="https://i.imgur.com/ekQzvsy.png" width="200">  |
